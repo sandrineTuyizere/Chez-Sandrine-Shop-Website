@@ -7,16 +7,16 @@ a simple small website for the chez sandrine shop it shows few webpages for the 
 
 ## Clone the respository
 
-run the "git clone in the command line"
+run the "git clone https://github.com/sandrineTuyizere/chez-sandrine-shop-website.git in the command line"
 
 ## Technologies Used
 
--HTML (HTML 5 specifically)
--CSS
--Google Chrome Browser
--Reply.it platform
--internet Connection
--Sublime Text app
+* HTML (HTML 5 specifically)
+* CSS
+* Google Chrome Browser
+* Repl.it platform
+* internet Connection
+* Sublime Text app
 
 ## Support and contacts
 
